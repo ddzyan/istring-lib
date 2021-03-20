@@ -1,0 +1,19 @@
+{
+  "name": "istring-lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "mocha --bail --timeout 30000 --recursive --slow 1000 --exit"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "node-rsa": "^1.1.1"
+  },
+  "devDependencies": {
+    "mocha": "^8.3.2"
+  }
+}
