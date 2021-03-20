@@ -1,13 +1,13 @@
 {
   "name": "istring-lib",
   "version": "1.0.0",
-  "description": "",
+  "description": "Istring Nodejs Lib",
   "main": "./lib/index.js",
   "scripts": {
     "test": "mocha --bail --timeout 30000 --recursive --slow 1000 --exit"
   },
   "keywords": [],
-  "author": "",
+  "author": "Bill",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
@@ -15,5 +15,13 @@
   },
   "devDependencies": {
     "mocha": "^8.3.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ddzyan/istring-lib"
+  },
+  "files": [
+    "lib",
+    "test"
+  ]
 }
