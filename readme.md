@@ -1,6 +1,6 @@
 ## 简介
 
-iString Nodejs Lib
+Istring Nodejs Lib
 
 详情请访问官方网站https://www.istring.com
 
