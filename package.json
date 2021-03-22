@@ -1,6 +1,6 @@
 {
   "name": "istring-lib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Istring Nodejs Lib",
   "main": "./lib/index.js",
   "scripts": {
